@@ -93,11 +93,17 @@ class recorder():
 
 
 r = recorder()
+
 r.rec()
+
 r.recStart()
+
 r.anim()
+
 r.contStart()
+
 r.plotGraph()
+
 r.contStop()
 
             
