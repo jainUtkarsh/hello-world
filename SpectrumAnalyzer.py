@@ -90,20 +90,12 @@ class recorder():
 #Showing the plot           
     def plotGraph(self):
         plt.show()
-
-
 r = recorder()
-
 r.rec()
-
 r.recStart()
-
 r.anim()
-
 r.contStart()
-
 r.plotGraph()
-
 r.contStop()
 
             
